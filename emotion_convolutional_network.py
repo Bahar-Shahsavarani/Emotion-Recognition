@@ -3,7 +3,7 @@
 # Department: Computer Science
 # Advisor: Prof. Stephen Scott
 # Updated: 11/12/2018
-# This code was developed (as a part of my master thesis) to implement a vanilla convolutional neural network 
+# This code was developed (as a part of my master thesis) to implement a vanilla convolutional neural network to classify speech emotions using spectrogram images.
 
 import tensorflow as tf
 import numpy as np
